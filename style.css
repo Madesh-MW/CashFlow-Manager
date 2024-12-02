@@ -1,0 +1,67 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #0c0c0ce4;
+}
+
+.container {
+    max-width: 500px;
+    margin: 100px auto;
+    background: rgb(73, 70, 70);
+    padding: 20px;
+    border-radius: 8px;
+}
+
+h1 {
+    text-align: center;
+    color: #f7f3f3;
+}
+
+input {
+    width: 95%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #141414;
+    border-radius: 5px;
+    background-color: #c4e0f8;
+}
+
+button {
+    width: 50%;
+    padding: 10px;
+    background: #669fca;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 110px;
+}
+
+button:hover {
+    background: #678ee1;
+}
+
+h3 {
+    color: #f7f3f3;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    background-color: #c4e0f8;;
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.totalExpenses {
+    color: #f7f3f3;
+    font-weight: bold;
+}
