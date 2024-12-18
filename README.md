@@ -1,4 +1,4 @@
-# Expense Tracker
+# CashFlow Manager
 
 A simple web application to track personal expenses. This project allows users to add and remove expenses, automatically updating the total amount spent. It provides a user-friendly interface to manage expenses efficiently.
 
